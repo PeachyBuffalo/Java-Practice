@@ -2,5 +2,5 @@
 Random Projects to navigate Java
 Compile first to then run any files.
 
-$ javac filename.java
+$ javac filename.java	
 $ java filename
